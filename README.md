@@ -1,5 +1,12 @@
 # FUTURE_UX_01 - Local Service Business Website Redesign
 
+<img width="1512" height="786" alt="image" src="https://github.com/user-attachments/assets/4c0b0eed-abb4-42cf-9f85-fdcabfe962ac" />
+<img width="1512" height="786" alt="image" src="https://github.com/user-attachments/assets/583b37ed-9a2e-4c1f-83df-3eb6ea4ffeaf" />
+<img width="1512" height="786" alt="image" src="https://github.com/user-attachments/assets/c17c8621-2785-44e9-a9fa-21a639c082d5" />
+
+
+
+
 ## Project Overview
 
 This project was completed as part of the Future Interns UI/UX Design Internship. The objective was to redesign a local service business website with a focus on improving user experience, increasing customer engagement, and encouraging service inquiries.
